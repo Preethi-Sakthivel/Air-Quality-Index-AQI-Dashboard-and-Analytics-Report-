@@ -18,6 +18,7 @@ Project Title: Air Quality Index (AQI) Dashboard and Analytics Report using Powe
 
 
 🌍Project Purpose
+
 To develop a dynamic and interactive data visualization dashboard aimed at analyzing and monitoring air quality indicators across Indian cities, enabling stakeholders to identify environmental health risks and support policy-making for pollution control.
 ________________________________________
 
