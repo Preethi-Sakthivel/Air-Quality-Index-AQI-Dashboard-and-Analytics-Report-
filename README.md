@@ -1,8 +1,9 @@
-# Air-Quality-Index-AQI-Dashboard-and-Analytics-Report-
+# Environmental Air Quality Index (AQI) Analytics Dashboard  | Power BI | Power Query | DAX |
+
 
 ![image](https://github.com/user-attachments/assets/65e90b05-d7b3-4b67-987e-544c59f70188)
 
-Project Title: Air Quality Index (AQI) Dashboard and Analytics Report using Power BI
+
 
 ♻️Project Overview
 
@@ -52,7 +53,7 @@ ________________________________________
 
 🏆Key Deliverables and Quantifiable Achievements
 
-•	✅ Data Integration: Successfully ingested and cleaned a multi-source dataset containing over 30,000+ records via Power BI’s SharePoint folder connection and Power Query Editor.
+•	✅ Data Integration: Successfully ingested and cleaned a multi-source dataset via Power BI’s SharePoint folder connection and Power Query Editor.
 
 •	✅ Data Modeling: Established normalized relationships between pollutants and their AQI impact factors using star schema modeling.
 
